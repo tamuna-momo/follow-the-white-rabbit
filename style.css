@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(123, 52, 189);
+    max-width: 1920px;
+    width:100%;
+   
+}
+
+button{
+    max-width: 200px;
+    width: 100%;
+    max-height: 200px;
+    height:100%;  
+    
+}
+.red {
+    background-color: rgb(180, 49, 75);
+
+}
+.blue{
+    background-color: rgb(25, 25, 88);
+}
+.buttons{
+    margin-left: 10%;
+    padding-top: 3%;
+   
+}
+.main h3 {
+    margin-left: 18%;
+    font-size: 25px;
+    margin-top: 5%;
+    
+}
+.main h4{
+    font-size: 34px;
+    margin-left: 7%;
+    color: rgb(131, 26, 99);
+    padding-top: 3%;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.rabbit {
+    margin-left: 21%;
+}
+.rabbit img{
+    
+    border-radius: 40%;
+
+}
+.rabbit h2{
+    font-size: 30px;
+    padding-top: 3%;
+}
+.rabbit p{
+    color: darksalmon;
+    font-size: 30px;
+    padding-top: 3%;
+}
